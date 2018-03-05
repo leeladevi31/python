@@ -1,6 +1,5 @@
 a=input("enter a day: ")
-b=["saturday","sunday"]
-if (a==b):
+if (a=='saturday' or a=='sunday'):
 	print("yes")
 else:
 	print("no")
