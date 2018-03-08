@@ -9,6 +9,6 @@ class py_solution:
                 int_val += rom_val[s[i]]
         return int_val
 
-print(py_solution().roman_to_int('CMLV'))
-print(py_solution().roman_to_int('VIM'))
-print(py_solution().roman_to_int('LLVMI'))
+print(py_solution().roman_to_int('CML'))
+print(py_solution().roman_to_int('VII'))
+print(py_solution().roman_to_int('VMI'))
