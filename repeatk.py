@@ -1,2 +1,5 @@
 S=("\n guvi")
-print (S*5)
+r=5
+print (S)
+print (r)
+print (S*r)
