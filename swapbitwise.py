@@ -1,5 +1,5 @@
-a=int(input("enter the number:"))
-b=int(input("enter the number:"))
+a=int(input())
+b=int(input())
 a=a^b
 b=a^b
 a=a^b
