@@ -5,3 +5,5 @@ m=len(b)
 for i in range(1,l):
   if a[i]==b[i]:
     print (a[i])
+  else:
+    break
